@@ -1,0 +1,46 @@
+{
+  "empDetails": [
+    {
+      "id": 0,
+      "fname": "peter",
+      "email": "peter12@gmail.com",
+      "phone": 828392838
+    },
+    {
+      "id": 4,
+      "fname": "jan",
+      "email": "jan@gmail.com",
+      "phone": 25636253
+    },
+    {
+      "id": 1658483471623,
+      "fname": "pete",
+      "email": "pete@gmail.com",
+      "phone": "2832832093"
+    },
+    {
+      "id": 1658722436976,
+      "fname": "admin",
+      "email": "admin@gmail.com",
+      "phone": "92839283"
+    },
+    {
+      "id": 1658726368524,
+      "fname": "pete",
+      "email": "pete12@gmail.com",
+      "phone": "828392838"
+    },
+    {
+      "id": 1658726459373,
+      "fname": "jane",
+      "email": "jane@gmail.com",
+      "phone": "25636253"
+    },
+    {
+      "id": 1658726665462,
+      "fname": "pet",
+      "email": "pet@gmail.com",
+      "phone": "2832832093"
+    }
+  ]
+}
